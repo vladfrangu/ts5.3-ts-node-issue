@@ -43,11 +43,10 @@
         "rimraf": "^5.0.5",
         "ts-node": "^11.0.0-beta.1",
         "turbo": "1.10.16",
-        "typescript": "^5.3.2"
+        "typescript": "file:../../../../.volta/tools/image/packages/every-ts/lib/node_modules/every-ts/.data/TypeScript"
     },
-    "packageManager": "yarn@4.0.2",
+    "packageManager": "npm@10.1.0",
     "volta": {
-        "node": "20.9.0",
-        "yarn": "4.0.2"
+        "node": "20.9.0"
     }
 }
